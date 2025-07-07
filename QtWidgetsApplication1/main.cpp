@@ -1,6 +1,7 @@
 #include "QtWidgetsApplication1.h"
 #include <QtWidgets/QApplication>
 #include <QLabel>
+#include <vector>
 
 int main(int argc, char *argv[])
 {

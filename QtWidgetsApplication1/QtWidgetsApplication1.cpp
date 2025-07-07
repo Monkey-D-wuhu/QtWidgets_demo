@@ -18,4 +18,5 @@ void  QtWidgetsApplication1::onclicked()
 {
     button->setText("1");
     return;
+
 }
